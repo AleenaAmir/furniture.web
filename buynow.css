@@ -1,0 +1,33 @@
+.buy{
+    background: #f2f5ff;
+}
+.buy-pack{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5% 10% 2% 10%;
+     
+    
+}
+.buy-img{
+
+    height: 15rem;
+    width: 18rem;
+    border-radius: 2%;
+    padding-bottom: 5%;
+}
+.bb {
+    border: 2px solid transparent; /* Initial border style */
+    transition: border-color 0.3s; /* Transition duration for smooth effect */
+  border-radius: 2%;
+  width:19rem;
+  padding: 5px;
+margin-bottom: 5%;
+  
+    /* Add any other styles you want for the element */
+  }
+  
+  .bb:hover {
+    border-color: #000; /* Border color on hover */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+  }

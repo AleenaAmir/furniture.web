@@ -1,0 +1,64 @@
+.living-l{
+  background: #f2f5ff;
+  
+}
+.lp-heading{
+    font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 65px;
+padding-top: 5%;
+    padding-left: 5%;
+
+color: #054C73;
+
+}
+.lp-para{
+    padding-top: 5%;
+    padding-left: 5%;
+    font-weight: 500;
+font-size: 18px;
+line-height: 29px;
+
+
+color: #333333;
+}
+.head{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 65px;
+/* or 125% */
+margin-left: 5%;
+padding-top: 3%;
+text-align: center;
+
+
+/* Primary / color */
+
+color: #054C73;
+
+}
+
+
+.living-parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5%;
+}
+.border-effect {
+    border: 2px solid transparent; /* Initial border style */
+    transition: border-color 0.3s; /* Transition duration for smooth effect */
+  border-radius: 2%;
+  width:21rem;
+  padding: 5px;
+
+  
+    /* Add any other styles you want for the element */
+  }
+  
+  .border-effect:hover {
+    border-color: #000; /* Border color on hover */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }

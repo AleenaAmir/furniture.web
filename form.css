@@ -1,0 +1,9 @@
+.form{
+    background: #f2f5ff;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 10%;
+   padding: 5%;
+    border-style: double;
+}
+#red{color: red;}

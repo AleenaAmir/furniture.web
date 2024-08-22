@@ -1,0 +1,28 @@
+.cart-item{
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 65px;
+  
+    color: #054c73;
+}
+.item-name{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 39px;
+    
+    
+    color: #333333;
+}
+#cart{
+    text-align: center;
+    padding: 14%;
+}
+.count1{
+    width: 3rem;
+    height: 3rem;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 20%;
+    margin-left: 2%;
+    
+}

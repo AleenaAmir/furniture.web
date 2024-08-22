@@ -1,0 +1,56 @@
+.furni {
+  height: 608px;
+  width: 100%;
+}
+.hero1 {
+  position: relative;
+}
+.hero-p{
+  font-weight: 500;
+font-size: 18px;
+line-height: 39px;
+
+
+color: #333333;
+
+}
+.hero2 {
+  position: absolute;
+  width: 653px;
+  height: 393px;
+  left: 747px;
+  top: 182px;
+
+  background: #dfe9f4;
+  border-radius: 10px;
+  padding-left: 3%;
+  padding-top: 3%;
+  padding-right: 5%;
+}
+.hero2-h {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 65px;
+
+  color: #054c73;
+}
+.hero2-btn {
+  height: 3rem;
+  width: 10rem;
+  left: 746px;
+  top: 609px;
+  border-style: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  background: #054c73;
+  border-radius: 50px;
+}
+.hero2-p {
+  font-weight: 600;
+}

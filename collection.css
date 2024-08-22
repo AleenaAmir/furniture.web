@@ -1,0 +1,45 @@
+.col {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.col-h {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+
+  color: #333333;
+}
+.col-p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  margin-top: 1.5%;
+  color: #666666;
+}
+.col-img {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 5%;
+}
+.img-1 {
+  width: 380px;
+  height: 434px;
+
+  background: #c4c4c4;
+  border-radius: 70px 0px 0px 0px;
+  margin-left: 28%;
+  margin-top: 10%;
+}
+.img-3 {
+  width: 380px;
+  height: 434px;
+  margin-right: 28%;
+  margin-top: 10%;
+}
+.img-2 {
+  width: 380px;
+  height: 434px;
+  margin-left: 14%;
+}

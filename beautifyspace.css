@@ -1,0 +1,65 @@
+.B-S {
+  width: 100%;
+  height: 688px;
+
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background: #f2f5ff;
+}
+.girl {
+  position: relative;
+  width: 22rem;
+  height: 588px;
+
+  margin-top: 8%;
+  margin-bottom: 10%;
+  border-radius: 70px 0px 70px 0px;
+}
+.circle {
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 2.8%;
+}
+.bs-h {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  padding-bottom: 3%;
+
+  /* Font / Color */
+
+  color: #333333;
+}
+.bs-p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 39px;
+  padding-bottom: 3%;
+  color: #666666;
+}
+.bs-btn {
+  width: 228px;
+  height: 68px;
+  left: 161px;
+  top: 2259.32px;
+
+  border-style: none;
+  background: #054c73;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.bs {
+  margin-top: 32%;
+  margin-left: 25%;
+  margin-right: 11%;
+}
+.bs-2 {
+  margin-left: 18%;
+}
